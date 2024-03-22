@@ -1,0 +1,19 @@
+body {
+    background-image: url(bg1.jpeg);
+}
+.heading {
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
+    margin-top: 20px;
+}
+.btn {
+    margin-top: 15px;
+    margin-left: 660px;
+}
+#imageDisplay {
+    margin-left: 430px;
+    margin-top: 50px;
+    width: 300px;
+    height: 200px;
+}
